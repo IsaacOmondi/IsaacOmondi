@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Omondi</h1>
-<h3 align="center">A passionate JS backend developer from Kenya</h3>
+<h3 align="center">A passionate Node.js developer from Kenya</h3>
 
 - 🌱 I’m currently learning **Vue.js, Docker, CI/CD**
 
