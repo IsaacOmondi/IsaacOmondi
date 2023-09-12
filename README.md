@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Omondi</h1>
 <h3 align="center">A passionate Backend developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Docker, CI/CD**
+- 🌱 I’m currently learning **Ruby on Rails, Docker and CI/CD**
 
 - 💬 Ask me about **Node.js, Clean Code, Design Patterns**
 
