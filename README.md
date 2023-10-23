@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Isaac Omondi</h1>
 <h3 align="center">A passionate Backend developer from Kenya</h3>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=isaacomondi&label=Profile%20Views&color=0e75b6&style=flat" alt="IsaacOmondi Profile Views" />
+</p>
 - 🌱 I’m currently learning **Ruby on Rails, Docker and CI/CD**
 
 - 💬 Ask me about **Node.js, Clean Code, Design Patterns**
