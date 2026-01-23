@@ -4,6 +4,7 @@
 
 - 🔭 I last worked on [Lifeleo](https://github.com/isaacomondi/lifeleo)
 - 💬 Ask me about **Node.js, Clean Code, Design Patterns**
+- Currently re-learning **Python & Go.**
 
 - 📫 How to reach me **iomondi90@gmail.com**
 
